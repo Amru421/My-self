@@ -45,7 +45,6 @@ I'm currently learning and building projects in full-stack development and emerg
 ![Operating System](https://img.shields.io/badge/OS-%23000000.svg?style=for-the-badge&logo=linux&logoColor=white)
 ![DAA](https://img.shields.io/badge/DAA-%23323330.svg?style=for-the-badge&logo=algorithm&logoColor=white)
 ![Dynamic Programming](https://img.shields.io/badge/DP-%2300599C.svg?style=for-the-badge&logo=matrix&logoColor=white)
-![PYQ+5 Practice](https://img.shields.io/badge/PYQ+5-%2300599C.svg?style=for-the-badge&logo=leetcode&logoColor=white)
 
 ---
 
